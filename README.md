@@ -7,12 +7,6 @@
 </head>
 <body>
     <h1>SOAL LAPORAN TEORI</h1>
-    <style>
-    h1{
-        color:blue;
-        font-style:italics;
-    }
-    </style> 
     <hr>1.Pertanyaan seputar tag
     <br>
     a.	Apa yang dimaksud dengan tag pada html?
