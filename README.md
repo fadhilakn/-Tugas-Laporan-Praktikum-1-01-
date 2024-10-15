@@ -52,7 +52,6 @@
                 font-weight: bold;
             }
         </style>
-    </head>
     <body>
         <table>
             <tr>
@@ -72,13 +71,13 @@
                 </td>
             </tr>
             <tr>
-                <td>B. Gambar</td>
+                <td>B.Gambar</td>
                 <td>
                 3. Apabila sebuah tag image tidak menampilkan gambar sebagaimana seharusnya, apa saja yang mungkin menyebabkan hal tersebut?
                 </td>
             </tr>
             <tr>
-                <td>B. Gambar</td>
+                <td>B.Gambar</td>
                 <td>
                 4. Apabila ternyata ada teks yang menggantikan gambar tersebut, apa yang sebenarnya terjadi?
                 </td>
